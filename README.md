@@ -30,10 +30,10 @@ docker-compose logs -f stremio
 
 ### 📱 Erişim Noktaları
 
-| Servis | URL | Açıklama |
-|--------|-----|----------|
-| **Stremio Web** | http://localhost:3579 | Ana web arayüzü |
-| **Stremio Server** | http://localhost:11470 | API sunucusu |
+|         Servis     |          URL           |    Açıklama     |
+|--------------------|------------------------|-----------------|
+| **Stremio Web**    | http://localhost:3579  | Ana web arayüzü |
+| **Stremio Server** | http://localhost:11470 | API sunucusu    |
 
 ### 🔌 Önceden Yapılandırılmış Eklentiler
 
@@ -165,15 +165,3 @@ docker-compose restart stremio
 ## 🔒 Legal Notice
 
 **⚠️ Important**: This software is for educational purposes only. Users are responsible for complying with local laws and regulations. Only stream content you have the right to access.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## ⭐ Support
-
-If you found this project helpful, please give it a star! ⭐
